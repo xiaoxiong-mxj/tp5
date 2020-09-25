@@ -5,6 +5,6 @@ class Index
 {
     public function index()
     {
-        return '456';
+        return '789';
     }
 }
